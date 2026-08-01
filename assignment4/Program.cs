@@ -64,6 +64,14 @@
             }
             #endregion
 
+            #region Question06
+            {
+                //int? genreNumber = 1;
+                //Genre? result = (Genre)genreNumber;
+                //Console.WriteLine($"the genre is: {result}");
+            }
+            #endregion
+
 
         }
     }

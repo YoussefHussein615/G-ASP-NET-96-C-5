@@ -88,6 +88,21 @@
             }
             #endregion
 
+            #region Question09
+            {
+                //string? genreText = "Science";
+                //Genre? genre;
+                //if (Enum.TryParse(genreText, out genre))
+                //{
+                //    Console.WriteLine($"Parsed successfully: {genre}");
+                //}
+                //else
+                //{
+                //    Console.WriteLine("Failed to parse the genre :( ");
+                //}
+            }
+            #endregion
+
 
         }
     }

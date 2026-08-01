@@ -56,6 +56,14 @@
             }
             #endregion
 
+            #region Question05
+            {
+                //Console.WriteLine((int)Genre.Fiction);
+                //Console.WriteLine((int)Genre.NonFiction);
+                //Console.WriteLine((int)Genre.Science);
+            }
+            #endregion
+
 
         }
     }

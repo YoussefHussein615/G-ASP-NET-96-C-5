@@ -1,7 +1,7 @@
 ﻿namespace assignment4
 {
-
-        internal class Book
+    enum Genre { Fiction, NonFiction, Science }
+    internal class Book
     {
         #region Question01_outside main 
         private string password = "secret";
@@ -13,6 +13,10 @@
 
         #region Question03_outside main
         //public string Title;
+        #endregion
+
+        #region Question04_outside main
+        //public Genre Genre;
         #endregion
 
     }
@@ -42,6 +46,13 @@
             {
                 //book.Title = "Clean Code";
                 //Console.WriteLine(book.Title);
+            }
+            #endregion
+
+            #region Question04
+            {
+                //book.Genre = Genre.Science;
+               // Console.WriteLine(book.Genre);
             }
             #endregion
 

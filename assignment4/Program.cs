@@ -72,6 +72,14 @@
             }
             #endregion
 
+            #region Question07
+            {
+                //Genre? genre = Genre.Fiction;
+                //string? genreString = genre.ToString();
+                //Console.WriteLine(genreString);
+            }
+            #endregion
+
 
         }
     }

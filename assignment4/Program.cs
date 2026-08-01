@@ -11,6 +11,10 @@
         //internal int copiesInStock = 5;
         #endregion
 
+        #region Question03_outside main
+        //public string Title;
+        #endregion
+
     }
     internal class Program
     {
@@ -33,6 +37,14 @@
                 // so it's allowed to read copiesInStock even though it's outside the class.
             }
             #endregion
+
+            #region Question03
+            {
+                //book.Title = "Clean Code";
+                //Console.WriteLine(book.Title);
+            }
+            #endregion
+
 
         }
     }
